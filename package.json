@@ -1,0 +1,9 @@
+{
+  "name": "lit-element-basic-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@webcomponents/custom-elements": "^1.2.4",
+    "lit-element": "^2.1.0"
+  }
+}
